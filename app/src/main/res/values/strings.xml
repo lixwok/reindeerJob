@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">驯鹿约吧</string>
+
+    <string name="first_page">首页</string>
+    <string name="partners">合作伙伴</string>
+    <string name="first_get">新技能get</string>
+
+    <string name="first_page_title">分享·让生活精彩</string>
+    <string name="first_page_info">约一约、面对面，为你出谋划策</string>
+
+    <string name="slogan">特色话题</string>
+
+    <string name="action_settings0">个人中心</string>
+    <string name="action_settings1">退出</string>
+</resources>
